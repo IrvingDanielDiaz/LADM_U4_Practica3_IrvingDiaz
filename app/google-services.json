@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "442877673951",
+    "firebase_url": "https://calificaciones-46906.firebaseio.com",
+    "project_id": "calificaciones-46906",
+    "storage_bucket": "calificaciones-46906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442877673951:android:ce9814c295b4fd44cb046a",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u4_practica3_irvingdiaz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442877673951-keiak3qf7e9pe7adelkf0krqoqc2929f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOollMIXZs06JSdrvRiJMR2P0YnTDKS9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442877673951-keiak3qf7e9pe7adelkf0krqoqc2929f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
